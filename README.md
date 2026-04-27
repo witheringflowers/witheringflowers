@@ -1,4 +1,4 @@
-## ![](https://komarev.com/ghpvc/?username=witherinflowers&color=blueviolet) 👋
+## ![](https://komarev.com/ghpvc/?username=witherinflowers&color=blueviolet)
 
 <!--
 **witheringflowers/witheringflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
